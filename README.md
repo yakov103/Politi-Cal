@@ -6,7 +6,7 @@ to install the app on your android device just download the apk
 
 built with FireBase and JetPack Compose 
 
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/firebase.svg" width="70" alt="Firebase logo"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/android-studio.svg" width="70" alt="Firebase logo"> <img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"/> ---->  <img src="https://user-images.githubusercontent.com/62290677/209436414-6ad069e4-3806-4f9e-8b98-0dfd08d944b7.png" alt="drawing" width="70" style="" />
+[![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,kotlin,androidstudio,figma,git&perline=6)](https://skillicons.dev) ---->  <img src="https://user-images.githubusercontent.com/62290677/209436414-6ad069e4-3806-4f9e-8b98-0dfd08d944b7.png" alt="drawing" width="70" style="" />
 
 
 ## Table Of Contents 
